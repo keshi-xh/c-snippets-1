@@ -5,3 +5,5 @@ int main() {
     printf("Sum: %d\n", a + b);// This %d is a placeholder will be taught later
     return 0;
 }
+
+// Notice that at the end of every code line there is a semi-colon

@@ -6,4 +6,4 @@ int main() {
     printf("var: %d\n", var);
     return 0;
 }
-// C programming language id case sensitive
+// C programming language is case sensitive
